@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project 2", "Project 2\Project 2.csproj", "{D54733F2-C80E-4A52-A659-F3325028749D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mainSearch", "mainDLL\mainSearch.csproj", "{20B786CC-4846-4C31-A4FA-FD3AB22B5DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saveToDB", "saveToDB\saveToDB.csproj", "{7E4ADCB6-8A61-4144-94EA-456F59193056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D54733F2-C80E-4A52-A659-F3325028749D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54733F2-C80E-4A52-A659-F3325028749D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54733F2-C80E-4A52-A659-F3325028749D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54733F2-C80E-4A52-A659-F3325028749D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B786CC-4846-4C31-A4FA-FD3AB22B5DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B786CC-4846-4C31-A4FA-FD3AB22B5DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B786CC-4846-4C31-A4FA-FD3AB22B5DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B786CC-4846-4C31-A4FA-FD3AB22B5DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4ADCB6-8A61-4144-94EA-456F59193056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4ADCB6-8A61-4144-94EA-456F59193056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4ADCB6-8A61-4144-94EA-456F59193056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4ADCB6-8A61-4144-94EA-456F59193056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC44A5C3-9A6F-4A31-98E6-FD48DF9AD7B6}
+	EndGlobalSection
+EndGlobal

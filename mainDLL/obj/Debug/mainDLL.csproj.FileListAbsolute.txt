@@ -1,0 +1,5 @@
+C:\Users\ytav\Desktop\DOT.NET\project 2\Project 2\mainDLL\bin\Debug\mainDLL.dll
+C:\Users\ytav\Desktop\DOT.NET\project 2\Project 2\mainDLL\bin\Debug\mainDLL.pdb
+C:\Users\ytav\Desktop\DOT.NET\project 2\Project 2\mainDLL\obj\Debug\mainDLL.csprojAssemblyReference.cache
+C:\Users\ytav\Desktop\DOT.NET\project 2\Project 2\mainDLL\obj\Debug\mainDLL.dll
+C:\Users\ytav\Desktop\DOT.NET\project 2\Project 2\mainDLL\obj\Debug\mainDLL.pdb

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="project2ModelStoreContainer" CdmEntityContainer="project2Entities">
+    <EntitySetMapping Name="project2_savingTable">
+      <EntityTypeMapping TypeName="project2Model.project2_savingTable">
+        <MappingFragment StoreEntitySet="project2-savingTable">
+          <ScalarProperty Name="searchString" ColumnName="searchString" />
+          <ScalarProperty Name="PathSearch" ColumnName="PathSearch" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
